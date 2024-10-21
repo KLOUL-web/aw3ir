@@ -1,0 +1,40 @@
+body {
+    background-color: #fcfcfc;
+    font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+    font-size: 16px;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+
+  #CV {
+
+    border-style: solid;
+    border-radius: 5%;
+    padding: 20px;
+  }
+
+  #logo {
+
+    margin-left: 35%;
+  }
+
+  #Titre {
+
+    margin-left: 10%;
+  }
+
+ table {
+
+    width: 100%;
+    border-style: solid;
+
+  }
+
+  table tr td {
+
+    border-style: groove;
+    height: 20px;
+  }
+
+
+
